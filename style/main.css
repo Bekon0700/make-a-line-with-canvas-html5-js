@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.canvas-container {
+  width: 60%;
+  margin: 20px auto;
+  height: 600px;
+}
+
+#canvas {
+  background-color: rgb(225, 222, 222);
+  border: 1px solid blue;
+}/*# sourceMappingURL=main.css.map */
